@@ -1,0 +1,10 @@
+[
+  {
+    "internalOreName": "actuallyadditions:minecraft:bedrock",
+    "meta": 3,
+    "overlay": "minecraft:items/barrier",
+    "lightValue": -1,
+    "alphaOverlay": false,
+    "oreDirectories": []
+  }
+]
